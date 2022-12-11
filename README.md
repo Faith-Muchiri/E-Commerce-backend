@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+<!-- postgres://e_commerce_prb7_user:lcqzUeqdo8uVW8EwMx8afqiHzEAsf8qb@dpg-ceaukk9a6gdichjekja0-a/e_commerce_prb7 -->
+<!-- postgres://e_commerce_prb7_user:lcqzUeqdo8uVW8EwMx8afqiHzEAsf8qb@dpg-ceaukk9a6gdichjekja0-a.oregon-postgres.render.com/e_commerce_prb7 -->
